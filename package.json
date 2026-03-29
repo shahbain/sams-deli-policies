@@ -1,0 +1,12 @@
+{
+  "name": "sams-deli-policies",
+  "version": "1.0.0",
+  "description": "Privacy policy and support pages for Sam's Deli & Market app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
